@@ -63,8 +63,6 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="0" />
     <option name="BLANK_LINES_AROUND_CLASS" value="0" />
-    <option name="SPACE_BEFORE_SEMICOLON" value="true" />
-    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
     <option name="SOFT_MARGINS" value="80" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
