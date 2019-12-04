@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Control Flow/Replace If With Switch" />
+    <ignoreAction name="JavaScript/Conditional Operator/Flip If" />
+  </component>
+</application>
