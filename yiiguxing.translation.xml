@@ -1,0 +1,21 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="虛寶卡" />
+      <item value="虛寶卡審核列表" />
+      <item value="虛寶卡審核列表ＡＰＩ" />
+      <item value="page Totale Count" />
+      <item value="Treasure Card" />
+      <item value="API.Activity.Treasure Card.Get Setting List" />
+      <item value="Pagination" />
+      <item value="Total Count" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE_TRADITIONAL" value="4" />
+      </map>
+    </option>
+  </component>
+</application>
