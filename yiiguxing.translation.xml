@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是否使用虚宝卡" />
+      <item value="是否使用虛寶卡" />
       <item value="practice" />
       <item value="練習" />
       <item value="虛寶卡" />
@@ -14,9 +16,11 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
-        <entry key="CHINESE_TRADITIONAL" value="4" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE_TRADITIONAL" value="6" />
+        <entry key="ESPERANTO" value="1" />
+        <entry key="THAI" value="1" />
       </map>
     </option>
   </component>
