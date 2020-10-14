@@ -20,6 +20,13 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="QUERY_EL_COMMA" value="2" />
+    <option name="QUERY_IN_ONE_STRING" value="3" />
+  </MySQLCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
