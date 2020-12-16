@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="會員身份審核選項" />
       <item value="Email 格式錯誤" />
       <item value="重試失敗" />
       <item value="重試中" />
@@ -25,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="32" />
         <entry key="CHINESE_TRADITIONAL" value="9" />
         <entry key="KOREAN" value="1" />
         <entry key="ESPERANTO" value="1" />
