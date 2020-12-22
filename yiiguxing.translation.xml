@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="예치심사" />
       <item value="銀行" />
       <item value="請選擇" />
       <item value="存款" />
@@ -32,9 +33,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="42" />
-        <entry key="CHINESE_TRADITIONAL" value="9" />
-        <entry key="KOREAN" value="1" />
+        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE_TRADITIONAL" value="10" />
+        <entry key="KOREAN" value="2" />
         <entry key="ESPERANTO" value="1" />
         <entry key="THAI" value="1" />
       </map>
